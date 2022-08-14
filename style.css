@@ -1,7 +1,7 @@
 
 .upper{
-    padding-left: 60px;
-    padding-right: 60px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .header{
@@ -35,7 +35,7 @@
 }
 
 .upper-right{
-    padding: 100px;
+    padding: 100px 150px 100px 150px;
     background-color: gray;
 }
 
