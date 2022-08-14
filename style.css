@@ -69,6 +69,11 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 100px;
+}
+
+.upper-mid-title{
+    margin: 40px;
 }
 
 .upper-mid-content{
