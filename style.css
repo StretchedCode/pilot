@@ -34,6 +34,11 @@
     flex-direction: column;
 }
 
+.upper-right{
+    padding: 100px;
+    background-color: gray;
+}
+
 ul{
     display: flex;
     padding-inline-start: 0px;
