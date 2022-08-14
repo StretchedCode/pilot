@@ -81,6 +81,7 @@ body{
 
 .upper-mid-content{
     display: flex;
+    gap: 50px;
 }
 
 ul{
