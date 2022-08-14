@@ -39,6 +39,10 @@
     background-color: gray;
 }
 
+.upper-button{
+    align-self: flex-start;
+}
+
 ul{
     display: flex;
     padding-inline-start: 0px;
