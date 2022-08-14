@@ -9,3 +9,12 @@ ul{
     padding-inline-start: 0px;
     list-style: none;
 }
+
+a{
+    text-decoration: none;
+}
+
+li{
+    margin-left: 5px;
+    margin-right: 5px;
+}
