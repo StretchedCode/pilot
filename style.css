@@ -1,7 +1,7 @@
 
 .upper{
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 130px;
+    padding-right: 130px;
 }
 
 .header{
@@ -16,7 +16,8 @@
     font-weight: bolder;
 }
 
-.right-header{
+.right-header,
+.secondary-text{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 18px;
     font-weight: 200;
@@ -35,8 +36,9 @@
 }
 
 .upper-right{
-    padding: 100px 150px 100px 150px;
+    padding: 150px 200px 150px 200px;
     background-color: gray;
+    flex-shrink: 0;
 }
 
 .main-text{
