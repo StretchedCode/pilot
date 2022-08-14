@@ -24,6 +24,14 @@
 
 .upper-content{
     display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    gap: 40px;
+}
+
+.upper-left{
+    display: flex;
+    flex-direction: column;
 }
 
 ul{
