@@ -84,6 +84,12 @@ body{
     gap: 50px;
 }
 
+.tile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 ul{
     display: flex;
     padding-inline-start: 0px;
